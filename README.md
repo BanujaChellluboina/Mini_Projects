@@ -1,5 +1,5 @@
 # Mini_Projects
-# weight converter 
+# Weight converter 
 weight = int(input("weight: "))
 unit = input("Enter the weight 'lbs' for 'pound' and 'kg' for 'kilograms': ")
 if unit.upper() == "lbs":
