@@ -1,6 +1,5 @@
-
 # Weight converter 
-# THIS CODE IS BASED ON YOUTUBE LEARNING VIDEO BY "PROGRAMMING WITH MOSH" 
+# THIS CODE IS BASED ON YOUTUBE LEARNING VIDEO BY "PROGRAMMING WITH MOSH" as a learning practise 
 weight = int(input("weight: "))
 unit = input("Enter the weight 'lbs' for 'pound' and 'kg' for 'kilograms': ")
 if unit.upper() == "lbs":
