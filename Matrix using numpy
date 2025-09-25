@@ -1,3 +1,4 @@
+# This CODE is based on youtube tutorial by "Freecodecamp.org" as a learning practise 
 # program to print matrix in certain form using numpy
            2 2 2 2 2
            2 1 1 1 2
